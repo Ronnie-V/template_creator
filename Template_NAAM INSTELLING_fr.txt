@@ -1,0 +1,6 @@
+{{<NAAM INSTELLING>/layout
+|text=Cette image provient des collections numériques et/ou physiques de la [<URL INSTELLING> <NAAM INSTELLING LOKAAL>].
+|lang=fr
+}}<noinclude>
+{{translated tag|marker}}
+</noinclude>

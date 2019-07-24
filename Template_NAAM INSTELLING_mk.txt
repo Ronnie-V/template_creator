@@ -1,0 +1,6 @@
+{{<NAAM INSTELLING>/layout
+|text=Оваа е слика од збирките на [[Commons:<NAAM INSTELLING>|<NAAM INSTELLING LOKAAL>]] — [<URL INSTELLING> <NAAM INSTELLING LOKAAL>]. 
+|lang=mk
+}}<noinclude>
+{{translated tag|marker}}
+</noinclude>

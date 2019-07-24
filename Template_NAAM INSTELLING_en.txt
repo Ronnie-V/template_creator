@@ -1,0 +1,6 @@
+{{<NAAM INSTELLING>/layout
+|text=This media file is from [<URL INSTELLING> <NAAM INSTELLING LOKAAL>], donated in the context of a partnership program.
+|lang=en
+}}<noinclude>
+{{translated tag|marker}}
+</noinclude>

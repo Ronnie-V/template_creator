@@ -1,0 +1,6 @@
+{{<NAAM INSTELLING>/layout
+|text=Dit mediabestand maakt deel uit van de collectie van [<URL INSTELLING> <NAAM INSTELLING LOKAAL>], waarvan een deel beschikbaar is gemaakt via Wikimedia Commons.
+|lang=nl
+}}<noinclude>
+{{translated tag|marker}}
+</noinclude>

@@ -1,0 +1,9 @@
+{| {{Partnership-Layout|lang={{{lang|}}}}}
+| style="width:100px;" | [[<NAAM AFBEELDING>|100px|link={{Smartlink|Commons:<NAAM INSTELLING>|{{{lang}}}}}|<NAAM INSTELLING>|alt=]]
+| {{lang|{{{lang|}}}|{{{text|empty}}} }}
+----
+{{<NAAM INSTELLING>/lang}}<br/>{{Copyright-tag-still-required|{{{lang|}}}}}
+|}<noinclude>
+
+[[Category:Layout templates|{{PAGENAME}}]]
+</noinclude>

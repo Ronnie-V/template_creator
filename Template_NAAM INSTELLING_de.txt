@@ -1,0 +1,6 @@
+{{<NAAM INSTELLING>/layout
+|text=Dieses Bild stammt aus den Sammlungen der [<URL INSTELLING> <NAAM INSTELLING LOKAAL>].
+|lang=de
+}}<noinclude>
+{{translated tag|marker}}
+</noinclude>

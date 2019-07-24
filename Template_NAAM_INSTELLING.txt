@@ -1,0 +1,10 @@
+{{Autotranslate|1={{{1|}}}|base=<NAAM INSTELLING>}}<includeonly>[[Category:<NAAM CATEGORY INSTELLING>]]</includeonly><noinclude>
+---------
+{{In category|Media contributed by <NAAM INSTELLING>}}
+
+{{documentation}}
+
+[[Category:Source templates]]
+[[Category:GLAM templates]]
+[[Category:Templates related to the Netherlands]]
+</noinclude>

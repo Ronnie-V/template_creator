@@ -1,0 +1,5 @@
+[http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Collections_from_<NAAM INSTELLING WITH UNDERLINES>&use_globalusage=1&ns0=1&show_details=1&projects&#91;wikipedia&#93;=1 Image uptake stats]
+
+{{DEFAULTSORT:<NAAM INSTELLING>}}
+[[Category:<NAAM INSTELLING>| ]]
+[[Category:Collections in the Netherlands<SOORT INSTELLING>]]

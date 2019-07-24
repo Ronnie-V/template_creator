@@ -1,0 +1,6 @@
+{{TemplateBox
+|name=<NAAM INSTELLING>
+|namespace=File
+|usergroup=all
+|desc=Displays a [[Commons:<NAAM INSTELLING>|<NAAM INSTELLING>]] partnership template. This template categorizes by default in [[:Category:Collections from <NAAM INSTELLING>]] ''and'' [[:Category:Media contributed by <NAAM INSTELLING>]]. To indicate the artwork is part of the ''collection'' from the <NAAM INSTELLING>, but ''not'' part of a media donation use the template as <nowiki>{{<NAAM INSTELLING>|collection}}</nowiki>.
+}}

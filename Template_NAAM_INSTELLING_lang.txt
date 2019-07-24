@@ -1,0 +1,10 @@
+<span style="font-size:x-small;line-height:140%" class="plainlinks noprint"><!--
+-->[{{fullurl:Template:<NAAM INSTELLING>/de}} {{ucfirst:{{#language:de}}}}]&nbsp;| <!--
+-->[{{fullurl:Template:<NAAM INSTELLING>/en}} {{ucfirst:{{#language:en}}}}]&nbsp;| <!--
+-->[{{fullurl:Template:<NAAM INSTELLING>/fr}} {{ucfirst:{{#language:fr}}}}]&nbsp;| <!--
+-->[{{fullurl:Template:<NAAM INSTELLING>/mk}} {{ucfirst:{{#language:mk}}}}]&nbsp;| <!--
+-->[{{fullurl:Template:<NAAM INSTELLING>/nl}} {{ucfirst:{{#language:nl}}}}]&nbsp;| <!--
+-->{{edit|Template:<NAAM INSTELLING>/lang}}
+</span><noinclude>
+[[Category:Language link templates|{{PAGENAME}}]]
+</noinclude>
